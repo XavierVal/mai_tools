@@ -17,7 +17,11 @@ L  M  M  J  V  S  D
 ```
 ## 2. Horizontal Calendar
 Just a calendar that shows the days of the month horizontally.
-## 3. TBD
+
+## 4. AFK Avoider 
+Keep you green in a chat room, every X minutes.
+
+## x. TBD
 
 
 # General setup:

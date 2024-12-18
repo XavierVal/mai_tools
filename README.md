@@ -20,6 +20,9 @@ Just a calendar that shows the days of the month horizontally.
 
 ## 4. AFK Avoider 
 Keep you green in a chat room, every X minutes.
+❯ python 4_afk.py -i 60
+2024-12-30 12:17:26,794 - INFO - Moving to: -76,-47 -> [1375, 1411]
+2024-12-30 12:18:26,794 - INFO -  --- The end. --- | Tiempo de uso: 60.79 segundos
 
 ## x. TBD
 

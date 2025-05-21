@@ -25,6 +25,34 @@ Keep you green in a chat room, every X minutes.
 2024-12-30 12:17:26,794 - INFO - Moving to: -76,-47 -> [1375, 1411]
 2024-12-30 12:18:26,794 - INFO -  --- The end. --- | Tiempo de uso: 60.79 segundos
 ```
+
+## 5. Automation server
+Create your own n8n server locally and run your workflows.
+```shell 
+docker-compose up -d
+```
+Go to http://localhost:5678 and start creating your workflows.
+
+## 6. Map generator
+Create a map with a list of addresses.
+
+´´´img(src="map.png", alt="map")´
+
+´´´
+
+
+```shell
+pip install folium
+
+python 6_map_generator.py
+
+open map.html
+```
+
+
+
+
+
 ## x. TBD
 
 
